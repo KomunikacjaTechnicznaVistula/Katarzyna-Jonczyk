@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Car Body 3
-nav_order: 2
+title: Draw
+nav_order: 1
 has_children: true
 ---
 ![Draw](images/draw-your-mess.png)
