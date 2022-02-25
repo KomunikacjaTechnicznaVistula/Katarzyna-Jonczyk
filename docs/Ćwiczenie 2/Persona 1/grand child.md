@@ -11,7 +11,7 @@ parent: Persona 1
 | ----------- | ----------- |
 |Persona name     | Linda       |
 | Persona role  | bookstore employee     |
-| Company name  | single student, fan of homemade coffee, do not like to spend a lot of money for basic needs (the latte factor opponent)        |
+| Private life  | single student, fan of homemade coffee, do not like to spend a lot of money for basic needs (the latte factor opponent)        |
 |Company size | a company of five      |
 | Industry | trading        |
 | Age   | 25        |
