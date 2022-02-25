@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Persona 2 text
-nav_order: 3
+nav_order: 6
 description: 
 grand_parent: Ćwiczenie 2
 parent: Persona 2

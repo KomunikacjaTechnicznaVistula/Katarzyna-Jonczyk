@@ -2,9 +2,8 @@
 layout: default
 title: What are the pieces of this thing?
 nav_order: 1
-description: 
-grand_parent: Ćwiczenie 1
-parent: grandchild1
+
+parent: Ćwiczenie 1
 
 ---
 
