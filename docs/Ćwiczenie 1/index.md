@@ -6,7 +6,9 @@ has_children: true
 ---
 Ćwiczenie 1
 <br>
+
+How to make coffee with semi-automatic espresso machine <br>
 Based on the work of Abby Covert
 
-![Draw](images/draw-your-mess.png)
+![Draw](/images/draw-your-mess.png)
 
