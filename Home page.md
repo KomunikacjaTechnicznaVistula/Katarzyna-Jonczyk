@@ -6,6 +6,6 @@ description:
 
 ---
 
-# Nagłówek 1 
-Bzdurki, głupotki, nie wiem co robię. 
+# How to make coffee with semi-automatic espresso machine
+![Draw](/images/ekspres.jfif)
 
