@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Persona 1
+title: Persona 2
 nav_order: 4
 description: 
 parent: Ćwiczenie 2
