@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Draw3
-nav_order: 3
+title: Draw1
+nav_order: 1
 description: 
 parent: Draw what your mess looks like to you
+has_children: yes
 ---
 
