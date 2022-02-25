@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Draw1
+title: grandchild1
 nav_order: 1
 description: 
-parent: Draw what your mess looks like to you
+parent: Ćwiczenie 1
 has_children: yes
 ---
 

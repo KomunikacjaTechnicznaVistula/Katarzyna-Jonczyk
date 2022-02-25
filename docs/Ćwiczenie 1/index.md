@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Draw what your mess looks like to you
+title: Ćwiczenie 1
 nav_order: 1
 has_children: true
 ---
