@@ -7,4 +7,4 @@ grand_parent: Ćwiczenie 2
 parent: Persona 1
 
 ---
-![Draw](/images/persona1.jpg)
+![Draw](../../../images/persona1.jpg)
