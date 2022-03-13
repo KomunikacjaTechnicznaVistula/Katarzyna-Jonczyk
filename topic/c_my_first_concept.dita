@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_my_first_concept">
+    <title>my first concept</title>
+    <shortdesc/>
+    <conbody>
+        <p>First</p>
+        <p>
+            <fig id="fig_pds_jwz_vsb">
+                <p>My image<image href="../../../Siasia/stary%20telefon/20160419_103610.jpg"
+                        width="400" height="250" id="image_ltf_swz_vsb"/></p>
+            </fig>
+        </p>
+    </conbody>
+</concept>
