@@ -1,1 +1,1 @@
-# author: Katarzyna-Jonczyk
+# Katarzyna-Jonczyk
