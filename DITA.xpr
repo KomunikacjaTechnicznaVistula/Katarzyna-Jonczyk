@@ -50,10 +50,10 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/docs</String>
+                                    <String>${pd}/docs</String>
                                 </field>
                                 <field name="tempDir">
-                                    <String>${cfd}/temp</String>
+                                    <String>${pd}/temp</String>
                                 </field>
                                 <field name="transtype">
                                     <String>pdf-css-html5</String>
@@ -234,10 +234,10 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/docs</String>
+                                    <String>${pd}/docs</String>
                                 </field>
                                 <field name="tempDir">
-                                    <String>${cfd}/temp</String>
+                                    <String>${pd}/temp</String>
                                 </field>
                                 <field name="transtype">
                                     <String>pdf-css-html5</String>
