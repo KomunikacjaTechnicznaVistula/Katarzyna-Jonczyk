@@ -1,1 +1,0 @@
-# author: Katarzyna-Jonczyk
